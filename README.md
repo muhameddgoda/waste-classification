@@ -5,7 +5,7 @@ A lightweight end‑to‑end pipeline that classifies household waste into **12 
 using a fine‑tuned **MobileNetV2** CNN.
 
 <p align="center">
-  <img src="docs/example_results.png" width="600" alt="sample predictions"/>
+  <img src="output.png" width="600" alt="sample predictions"/>
 </p>
 
 ---
@@ -23,7 +23,7 @@ using a fine‑tuned **MobileNetV2** CNN.
 ## Quick Start
 
 # clone repo
-git clone https://github.com/YourUsername/waste-classification.git
+git clone https://github.com/muhameddgoda/waste-classification.git
 cd waste-classification
 
 # create env
